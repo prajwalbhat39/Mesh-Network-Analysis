@@ -1,0 +1,21 @@
+{% extends "base.html" %} {% block title %}Login{% endblock %} {% block content
+    %}
+    <form method="POST">
+  <h3 align="center">Ping to the IP Address</h3>
+  <div class="form-group">
+    <label for="ip">IP Address</label>
+    <input
+      type="text"
+      class="form-control"
+      id="ip"
+      name="ip"
+      placeholder="Enter destination ip"
+    />
+  </div>
+  <br />
+  <button type="submit" class="btn btn-danger" >Ping</button>
+</form>
+<br />
+  <br />
+  <a class="nav-item nav-link" id="analyse" href="/analyse"><button type="button" class="btn btn-warning">Start Network Analysis</button></a>
+    {% endblock %}

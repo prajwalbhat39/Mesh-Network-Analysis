@@ -1,0 +1,29 @@
+IN-USE  BSSID              SSID                          MODE    CHAN  RATE        SIGNAL  BARS  SECURITY    
+        12:3E:30:39:BE:A1  Kavach                        Ad-Hoc  1     54 Mbit/s   100     ▂▄▆█  WEP         
+        26:15:10:29:02:40  --                            Infra   36    540 Mbit/s  100     ▂▄▆█  WPA2 802.1X 
+        26:15:10:29:02:43  --                            Infra   36    540 Mbit/s  100     ▂▄▆█  WPA2        
+        26:15:10:29:02:41  GJBC_Cafeteria                Infra   36    540 Mbit/s  100     ▂▄▆█  --          
+        EA:F3:BC:66:08:D1  DIRECT-CALAPTOP-K4RF0KB3msUB  Infra   36    135 Mbit/s  97      ▂▄▆█  WPA2        
+        26:15:10:29:02:51  GJBC_Cafeteria                Infra   11    260 Mbit/s  94      ▂▄▆█  --          
+        26:15:10:29:02:52  GJBC_PESU52                   Infra   11    260 Mbit/s  92      ▂▄▆█  --          
+        26:15:10:29:01:C0  --                            Infra   157   540 Mbit/s  84      ▂▄▆█  WPA2 802.1X 
+        26:15:10:29:01:C2  --                            Infra   157   540 Mbit/s  84      ▂▄▆█  WPA2        
+        26:15:10:29:01:C4  GJBC_PESU52                   Infra   157   540 Mbit/s  84      ▂▄▆█  --          
+        26:15:10:29:01:C1  GJBC_Cafeteria                Infra   157   540 Mbit/s  82      ▂▄▆█  --          
+        26:15:10:29:01:84  GJBC_PESU52                   Infra   149   540 Mbit/s  77      ▂▄▆_  --          
+        26:15:10:29:01:80  --                            Infra   149   540 Mbit/s  75      ▂▄▆_  WPA2 802.1X 
+        26:15:10:29:01:81  GJBC_Cafeteria                Infra   149   540 Mbit/s  75      ▂▄▆_  --          
+        26:15:10:29:01:D4  GJBC_PESU52                   Infra   6     260 Mbit/s  74      ▂▄▆_  --          
+        26:15:10:29:01:D1  GJBC_Cafeteria                Infra   6     260 Mbit/s  74      ▂▄▆_  --          
+*       26:15:10:29:02:42  GJBC_PESU52                   Infra   36    540 Mbit/s  74      ▂▄▆_  --          
+        26:15:10:29:02:01  GJBC_Cafeteria                Infra   44    540 Mbit/s  74      ▂▄▆_  --          
+        26:15:10:29:02:02  GJBC_PESU52                   Infra   44    540 Mbit/s  70      ▂▄▆_  --          
+        26:15:10:29:01:82  --                            Infra   149   540 Mbit/s  70      ▂▄▆_  WPA2        
+        26:15:10:29:01:94  GJBC_PESU52                   Infra   1     260 Mbit/s  62      ▂▄▆_  --          
+        26:15:10:29:01:91  GJBC_Cafeteria                Infra   1     260 Mbit/s  60      ▂▄▆_  --          
+        02:B4:92:7C:11:53  _m42                          Infra   157   135 Mbit/s  59      ▂▄▆_  WPA2        
+        26:15:10:29:02:12  GJBC_PESU52                   Infra   6     260 Mbit/s  49      ▂▄__  --          
+        26:15:10:29:02:11  GJBC_Cafeteria                Infra   6     260 Mbit/s  49      ▂▄__  --          
+        D6:20:7B:F7:E7:BB  Ariana Pandey                 Infra   6     117 Mbit/s  49      ▂▄__  WPA2        
+        EE:2E:98:E2:24:B9  BooYeah                       Infra   157   270 Mbit/s  49      ▂▄__  WPA2        
+        7A:42:FE:F2:DE:42  OnePlus                       Infra   1     117 Mbit/s  45      ▂▄__  WPA2        

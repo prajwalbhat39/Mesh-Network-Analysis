@@ -1,0 +1,42 @@
+IN-USE  BSSID              SSID                          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY    
+        CE:FD:74:8F:A2:CA  GB                            Infra  1     65 Mbit/s   100     ▂▄▆█  WPA2        
+        EA:F3:BC:66:08:D1  DIRECT-JNLAPTOP-K4RF0KB3msRI  Infra  36    135 Mbit/s  99      ▂▄▆█  WPA2        
+        26:15:10:29:02:41  GJBC_Cafeteria                Infra  36    540 Mbit/s  92      ▂▄▆█  --          
+        26:15:10:29:02:40  --                            Infra  36    540 Mbit/s  92      ▂▄▆█  WPA2 802.1X 
+        26:15:10:29:02:43  --                            Infra  36    540 Mbit/s  90      ▂▄▆█  WPA2        
+        26:15:10:29:02:51  GJBC_Cafeteria                Infra  11    260 Mbit/s  84      ▂▄▆█  --          
+        26:15:10:29:02:52  GJBC_PESU52                   Infra  11    260 Mbit/s  82      ▂▄▆█  --          
+        26:15:10:29:01:C1  GJBC_Cafeteria                Infra  157   540 Mbit/s  80      ▂▄▆_  --          
+        26:15:10:29:01:C4  GJBC_PESU52                   Infra  157   540 Mbit/s  77      ▂▄▆_  --          
+        26:15:10:29:01:C0  --                            Infra  157   540 Mbit/s  75      ▂▄▆_  WPA2 802.1X 
+        26:15:10:29:02:03  --                            Infra  44    540 Mbit/s  74      ▂▄▆_  WPA2        
+        D6:20:7B:F7:E7:BB  Ariana Pandey                 Infra  6     117 Mbit/s  72      ▂▄▆_  WPA2        
+*       26:15:10:29:02:42  GJBC_PESU52                   Infra  36    540 Mbit/s  72      ▂▄▆_  --          
+        26:15:10:29:02:02  GJBC_PESU52                   Infra  44    540 Mbit/s  72      ▂▄▆_  --          
+        26:15:10:29:01:C2  --                            Infra  157   540 Mbit/s  72      ▂▄▆_  WPA2        
+        26:15:10:29:02:01  GJBC_Cafeteria                Infra  44    540 Mbit/s  70      ▂▄▆_  --          
+        26:15:10:29:02:00  --                            Infra  44    540 Mbit/s  70      ▂▄▆_  WPA2 802.1X 
+        D6:54:8B:DC:B6:9E  Love you chinna               Infra  157   270 Mbit/s  70      ▂▄▆_  WPA2        
+        26:15:10:29:01:84  GJBC_PESU52                   Infra  149   540 Mbit/s  67      ▂▄▆_  --          
+        26:15:10:29:01:81  GJBC_Cafeteria                Infra  149   540 Mbit/s  67      ▂▄▆_  --          
+        B6:8C:9D:20:8B:BB  Segu's Laptop                 Infra  44    270 Mbit/s  65      ▂▄▆_  WPA2        
+        26:15:10:29:01:80  --                            Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2 802.1X 
+        26:15:10:29:01:82  --                            Infra  149   540 Mbit/s  64      ▂▄▆_  WPA2        
+        26:15:10:29:02:12  GJBC_PESU52                   Infra  6     260 Mbit/s  62      ▂▄▆_  --          
+        26:15:10:29:01:D1  GJBC_Cafeteria                Infra  6     260 Mbit/s  62      ▂▄▆_  --          
+        62:0B:1F:C8:89:2C  Vijayanagar                   Infra  7     117 Mbit/s  62      ▂▄▆_  WPA2        
+        3E:8C:A8:9A:E4:7F  iQOO Z6                       Infra  36    135 Mbit/s  62      ▂▄▆_  WPA2        
+        26:15:10:29:02:11  GJBC_Cafeteria                Infra  6     260 Mbit/s  60      ▂▄▆_  --          
+        26:15:10:29:01:D4  GJBC_PESU52                   Infra  6     260 Mbit/s  60      ▂▄▆_  --          
+        E6:D4:65:C9:8F:42  OnePlusTwo                    Infra  11    270 Mbit/s  60      ▂▄▆_  WPA2        
+        7A:42:FE:F2:DE:42  OnePlus                       Infra  1     117 Mbit/s  55      ▂▄__  WPA2        
+        AE:61:C4:37:3E:B6  Tunak Tunak Tun               Infra  1     65 Mbit/s   55      ▂▄__  WPA2        
+        92:E8:68:5B:99:B7  LAPTOP-VI0K9768 0261          Infra  44    270 Mbit/s  55      ▂▄__  WPA2        
+        42:10:16:65:B1:BD  Galaxy M219D59                Infra  1     65 Mbit/s   52      ▂▄__  WPA2        
+        6C:AA:B3:32:4B:58  PLACEMENT-1                   Infra  10    130 Mbit/s  49      ▂▄__  --          
+        D2:27:A7:73:F3:F8  Redmi Note 10 Pro             Infra  149   135 Mbit/s  45      ▂▄__  WPA2        
+        EE:2E:98:E2:24:B9  BooYeah                       Infra  157   270 Mbit/s  44      ▂▄__  WPA2        
+        26:15:10:29:01:91  GJBC_Cafeteria                Infra  1     260 Mbit/s  40      ▂▄__  --          
+        D6:E8:FA:30:FF:F3  Virus                         Infra  6     65 Mbit/s   40      ▂▄__  WPA2        
+        26:15:10:29:01:94  GJBC_PESU52                   Infra  1     260 Mbit/s  37      ▂▄__  --          
+        02:B4:92:7C:11:53  _m42                          Infra  157   135 Mbit/s  32      ▂▄__  WPA2        
